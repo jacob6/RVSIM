@@ -1,6 +1,6 @@
 # RVSIM
 
-This is the official repository of [*RVSIM: a feature similarity method for full-reference image quality assessment*](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0246-1). The paper is published on the open access [*EURASIP Journal on Image and Video Processing*](https://jivp-eurasipjournals.springeropen.com/) and the full text is available [online](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-018-0246-1). 
+This is the official repository of [*RVSIM: a feature similarity method for full-reference image quality assessment*](https://jivp-eurasipjournals.springeropen.com/articles/10.1186/s13640-018-0246-1). The paper is published on the open access [*EURASIP Journal on Image and Video Processing*](https://jivp-eurasipjournals.springeropen.com/) and the full text is available [online](https://jivp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13640-018-0246-1). For more information, please visit [our website](https://sites.google.com/site/jacobygy/). 
 
 ### Citation
 If you find our work useful for your research, we kindly suggest you to cite 
@@ -45,5 +45,5 @@ Kindly report any suggestions or corrections to `ygy@whu.edu.cn`
 ![fig7](https://github.com/jacob6/RVSIM/blob/master/fig7.png)
 
 ## Usage
-for detailed usage and required dependencies, please view `RVSIM_realease/readme.txt`
+for detailed usage and required dependencies, please view `RVSIM-release/readme.txt`
 
